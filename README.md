@@ -2,10 +2,10 @@
 Software for controlling an open source braille embosser
 
 Follow the instructions at :
-https://www.instructables.com/id/Open...
+https://www.instructables.com/id/OpenBraille-a-DIY-Braille-Embosser
 
 Facebook page:
-https://www.facebook.com/OpenBraille-...
+https://www.facebook.com/OpenBraille-Braille-printer-in-OpenSource-109726986377498/
 
 Download files at:
 https://www.thingiverse.com/thing:2586738
